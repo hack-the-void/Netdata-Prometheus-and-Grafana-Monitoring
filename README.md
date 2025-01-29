@@ -126,7 +126,7 @@ This project sets up a **complete monitoring stack** using **Prometheus**, **Net
     
       - job_name: "netdata"  
         static_configs:  
-          - targets: ["172.20.10.2:19999"]  
+          - targets: ["localhost:19999"]  
 
 ---
 
