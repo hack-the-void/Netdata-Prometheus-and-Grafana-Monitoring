@@ -14,6 +14,13 @@ This project sets up a **complete monitoring stack** using **Prometheus**, **Net
 
 ---
 
+![image](https://github.com/user-attachments/assets/6dc5655b-332f-437d-b42d-085803737117)
+
+![image](https://github.com/user-attachments/assets/dac209d7-ab32-4048-9a95-ba894665e8d8)
+
+
+---
+
 ## 🏗 Project Architecture  
 
 - **Ubuntu Server**  
